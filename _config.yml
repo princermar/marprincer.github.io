@@ -20,17 +20,17 @@ platforms:
     link: https://www.linkedin.com/in/marprincer
 
 navigation:
-  - name: About
-    link: ./index.html
+  - name: Home
+    link: ./
 
   - name: Research
-    link: ./research.html
+    link: ./
 
   - name: Blog
-    link: ./blog.html
+    link: ./
 
-  - name: Art
-    link: ./art.html
+  - name: About
+    link: ./
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 

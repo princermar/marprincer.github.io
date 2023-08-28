@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Welcome to the Research Page.
+# Welcome to the Research Page.

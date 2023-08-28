@@ -2,4 +2,4 @@
 layout: default
 title: blog
 ---
-## Blog
+# Blog
