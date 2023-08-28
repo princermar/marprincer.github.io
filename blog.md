@@ -11,5 +11,5 @@ title: blog
   <ul>
     <li>Summary</li>
   </ul>
-  <a href="link"><span class="card-link-spanner"></span></a>
+  <a href="https://princermar.github.io/sample-post.html"><span class="card-link-spanner"></span></a>
 </div>
