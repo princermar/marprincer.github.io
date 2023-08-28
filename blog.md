@@ -8,7 +8,6 @@ title: blog
   <h3> Title
 </h3>
   <p>stuff</p>
-  <span class=rep>Subtitle</span>
   <ul>
     <li>Little Summary </li>
   </ul>
