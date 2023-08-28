@@ -21,16 +21,16 @@ platforms:
 
 navigation:
   - name: Home
-    link: ./
+    link: ./index.html
 
   - name: Research
-    link: ./
+    link: ./research.html
 
   - name: Blog
-    link: ./
+    link: ./blog.html
 
   - name: About
-    link: ./
+    link: ./About.html
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
