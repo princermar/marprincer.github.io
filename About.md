@@ -1,5 +1,7 @@
 ---
 layout: default
+title: About me
 ---
 
-# Welcome to the About Page
+
+> secret

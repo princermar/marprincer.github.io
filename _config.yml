@@ -1,4 +1,4 @@
-title: Mar Anderson F. princer
+title: Mar Anderson F. Princer
 logo: /assets/img/marlogo.jpg
 email: princermar12@gmail.com
 description: I write, paint, and calculate stuff. 
@@ -25,9 +25,6 @@ navigation:
 
   - name: Research
     link: ./research.html
-
-  - name: Blog
-    link: ./blog.html
 
   - name: About
     link: ./About.html
