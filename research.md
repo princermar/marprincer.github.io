@@ -7,7 +7,7 @@ layout: default
 **Generalized Uncertainty Principle, Quantum Gravity**, Mathematical Physics, Artificial Intelligence and Neural Networks, Computer Vision, Relativity 
 <br />
 <br />
-The core topic of my undergraduate thesis is to determine the effects of the Generalized Uncertainty Principle to the dynamics of different one-dimensional systems. I'm still in the process of calculating and solving for analytical solutions and I hope to publish the findings soon if I find them worthy of being published. 
+The core topic of my undergraduate thesis is to determine the effects of the Generalized Uncertainty Principle to the dynamics of different one-dimensional systems. I'm still in the process of calculating and solving for analytical solutions and I hope to publish the findings soon if and only if I find them worthy of being published. 
 
 ### Education
 
@@ -20,4 +20,4 @@ The core topic of my undergraduate thesis is to determine the effects of the Gen
 ### Miscellaneous
 Languages: English (fluent), Filipino (mother tongue), German (Elementary) <br />
 Programming Languages: Python, MATLAB, Mathematica <br />
-Markup Languages: HTML, CSS, LaTeX <br />
+Markup Languages: HTML, LaTeX <br />
